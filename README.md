@@ -29,6 +29,7 @@
 - [ERC-7699](https://eips.ethereum.org/EIPS/eip-7699) ERC-20 Transfer Reference Extension
 - [ERC-7720](https://eips.ethereum.org/EIPS/eip-7720) Deferred Token Transfer
 - [ERC-7722](https://eips.ethereum.org/EIPS/eip-7722) Opaque Token
+- [ERC-7818](https://eips.ethereum.org/EIPS/eip-7818) Expirable ERC-20 
 
 ## Stagnant
 
