@@ -37,7 +37,7 @@
 
 - [ERC-1178](https://eips.ethereum.org/EIPS/eip-1178) Multi-class Token Standard
 - [ERC-1203](https://eips.ethereum.org/EIPS/eip-1203) ERC-1203 Multi-Class Token Standard (ERC-20 Extension)
-- [ERC-1462]((https://eips.ethereum.org/EIPS/eip-1462) Base Security Token
+- [ERC-1462](https://eips.ethereum.org/EIPS/eip-1462) Base Security Token
 - [ERC-1996](https://eips.ethereum.org/EIPS/eip-1996) Holdable Token
 - [ERC-2018](https://eips.ethereum.org/EIPS/eip-2018) Clearable Token
 - [ERC-2019](https://eips.ethereum.org/EIPS/eip-2019) Fundable Token
