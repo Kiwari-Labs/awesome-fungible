@@ -10,6 +10,7 @@
 - [ERC-3643](https://eips.ethereum.org/EIPS/eip-3643) T-REX - Token for Regulated EXchanges
 - [ERC-5528](https://eips.ethereum.org/EIPS/eip-5528) Refundable Fungible Token
 - [ERC-6808](https://eips.ethereum.org/EIPS/eip-6808) Fungible Key Bound Token
+- [ERC-7818](https://eips.ethereum.org/EIPS/eip-7818) Expirable ERC-20 
 
 ## Review
 
@@ -29,7 +30,6 @@
 - [ERC-7699](https://eips.ethereum.org/EIPS/eip-7699) ERC-20 Transfer Reference Extension
 - [ERC-7720](https://eips.ethereum.org/EIPS/eip-7720) Deferred Token Transfer
 - [ERC-7722](https://eips.ethereum.org/EIPS/eip-7722) Opaque Token
-- [ERC-7818](https://eips.ethereum.org/EIPS/eip-7818) Expirable ERC-20 
 
 ## Stagnant
 
